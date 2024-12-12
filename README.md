@@ -17,14 +17,6 @@ This repository contains the cloud infrastructure and API implementations for th
    - Contains the API for detecting if a baby is at risk of stunting.
    - Based on user input (baby’s age, weight, and height), the system uses a machine learning model to determine the stunting risk and stores the results in Firestore.
 
-## Installation and Usage
-
-To set up the repository locally and run the APIs, follow these steps:
-
-### Prerequisites
-- **Python**: Required for running the machine learning models and backend scripts.
-- **Node.js**: Required for any JavaScript-based services.
-- **Docker**: For containerizing the APIs (optional).
 
 
 ## Contributors
