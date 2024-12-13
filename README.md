@@ -3,7 +3,7 @@
 This repository contains the cloud infrastructure and API implementations for the Stunting Prevention Application, developed by the Cloud Computing team. It comprises three branches, each dedicated to a specific API function to ensure modularity and scalability.
 
 ## GCP Architecture
-![Cloud Architecture](Cloud Architecture.png) 
+![Cloud Architecture](https://github.com/Nourish-Path/CloudComputing/blob/main/Cloud%20Architecture.png)
 
 ## Repository Structure
 
